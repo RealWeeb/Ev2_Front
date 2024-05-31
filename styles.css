@@ -1,0 +1,84 @@
+body{
+    background-color: rgba(167, 125, 73, 0.685) !important;
+}
+#cont_pop{
+    padding: 50px;
+}
+#bt_comp_dest{
+    float: right;
+    margin-bottom: 10px;
+    background-color: rgb(55, 55, 55) !important;
+}
+#price_dest{
+    float: left;
+}
+#dest_title{
+    font-size: x-large;
+}
+#home_title{
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 21px;
+    margin-bottom: -10px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#home_title2{
+    font-size: xx-large;
+    text-align: center;
+    margin-bottom: -10px;
+    margin-top: 21px;
+}
+#home_subtitle{
+    font-size: xx-large;
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#home_body{
+    font-size: x-large;
+    text-align: left;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#home_body2{
+    font-size: x-large;
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#card_sell{
+    background-color: rgb(204, 182, 155) !important;
+    overflow-y: auto;
+    height: 250px;
+}
+div.footer{
+    background-color: rgb(55, 55, 55) !important;
+    bottom: 0;
+    width: 100%;
+}
+#par_foot{
+    color: rgb(55, 55, 55) !important;
+    float: left;
+    margin: 10px;
+}
+#link_foot{
+    color: rgb(55, 55, 55) !important;
+    float: right;
+    margin: 10px;
+}
+#card_cont{
+    background-color: rgb(204, 182, 155) !important;
+    display: flex;
+    flex-direction: column;
+    max-height: 700px;
+}
+#Error{
+    color: rgb(55, 55, 55) !important;
+}
+#map{
+    flex-shrink: 0;
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+}
